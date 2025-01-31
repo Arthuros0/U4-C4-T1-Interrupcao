@@ -35,7 +35,7 @@ pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(tarefa_interrupcao tarefa_interrupcao.c pio_matrix.pio)
+add_executable(tarefa_interrupcao tarefa_interrupcao.c matrix_leds.c)
 
 pico_set_program_name(tarefa_interrupcao "tarefa_interrupcao")
 pico_set_program_version(tarefa_interrupcao "0.1")
@@ -60,7 +60,6 @@ target_include_directories(tarefa_interrupcao PRIVATE
 target_link_libraries(tarefa_interrupcao 
         hardware_dma
         hardware_pio
-        
         )
 
 pico_add_extra_outputs(tarefa_interrupcao)
