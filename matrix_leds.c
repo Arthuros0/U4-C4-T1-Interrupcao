@@ -28,7 +28,7 @@ void desenha_frame(const uint32_t matriz[10][25],uint8_t frame){
 
     for (uint8_t i = 0; i < NUM_PIXELS; i++)
     {
-        uint8_t pos=obter_index(i);
+        uint8_t pos=obter_index(i);         
         pio_sm_put_blocking(pio0,sm,matriz[frame][pos]);
     }
     
