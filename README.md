@@ -1,6 +1,13 @@
-# BitDogLab - Interrupção
+# Projeto: Tarefa de Interrupção na BitDogLab
 
-Bem-vindo ao meu repósitorio sobre a tarefa de interrupção na placa de desenvolvimento educacional BitDogLab. Essa tarefa faz parte da unidade de microcontroladores do programa de capacitação profissional técnica EmbarcaTech. Essa atividade tem como objetivo o aprendizado de interrupções. Nela a matriz de LEDs exibe números de 0 a 9, esse número pode se incrementado e decrementado pelos usuário atráves dos botões. Além disso o led central pisca cinco vezes por segundo.
+Bem-vindo ao meu repositório sobre a tarefa de interrupção na placa de desenvolvimento educacional BitDogLab. Este projeto faz parte da unidade de microcontroladores do programa de capacitação profissional técnica EmbarcaTech e tem como principal objetivo o aprendizado sobre o uso de interrupções.
+
+## Funcionalidades
+- **Matriz de LEDs:** Exibe números de 0 a 9, com os números podendo ser incrementados ou decrementados pelos usuários por meio de botões.
+- **LED Central:** Pisca cinco vezes por segundo, demonstrando o uso de timers e controle de LED.
+
+Explore o repositório para ver o código, entender o funcionamento e aprender como as interrupções são aplicadas neste projeto.
+
 
 ## Componentes Utilizados
 
