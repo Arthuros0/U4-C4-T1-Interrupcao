@@ -8,6 +8,12 @@ Bem-vindo ao meu repositório sobre a tarefa de interrupção na placa de desenv
 
 Explore o repositório para ver o código, entender o funcionamento e aprender como as interrupções são aplicadas neste projeto.
 
+  ## **Vídeo de Demonstração do Projeto**
+Confira a demonstração da tarefa clicando no ícone abaixo:
+
+<a href="https://youtube.com/shorts/LU2o8_zva78">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+</a>
 
 ## Componentes Utilizados
 
@@ -77,9 +83,3 @@ Certifique-se de que os seguintes itens estão instalados:
    - Pressione o botão A para incrementar o número exibido na matriz.
    - Pressione o botão B para decrementar o número exibido na matriz.
 
-  ## **Vídeo de Demonstração do Projeto**
-Confira a demonstração da tarefa clicando no ícone abaixo:
-
-<a href="https://youtube.com/shorts/LU2o8_zva78">
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
-</a>
