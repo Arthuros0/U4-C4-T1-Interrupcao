@@ -56,7 +56,10 @@ Certifique-se de que os seguintes itens estão instalados:
 2. Clone o repositório do projeto usando os comandos abaixo no terminal:  
    ```bash
    git init
-   git clone [link do repositório]
+   ```
+   ```bash
+   git clone https://github.com/Arthuros0/U4-C4-T1-Interrupcao.git
+   ```
 3. Abra o projeto clonado no VS Code
 
 ### **2. Compilação e Carregamento na Placa**
