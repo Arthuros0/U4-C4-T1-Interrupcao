@@ -73,3 +73,10 @@ Certifique-se de que os seguintes itens estão instalados:
 2. Use os botões para interagir com a matriz de leds:
    - Pressione o botão A para incrementar o número exibido na matriz.
    - Pressione o botão B para decrementar o número exibido na matriz.
+
+  ## **Vídeo de Apresentação do Projeto**
+Confira a playlist com vídeos de apresentação do projeto clicando no ícone abaixo:
+
+<a href="https://youtube.com/shorts/LU2o8_zva78">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+</a>
